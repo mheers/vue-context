@@ -1,8 +1,6 @@
 # Attention:
 
-I no longer have the ability or interest in maintaining this package since I am not using Vue in any of my projects
-anymore, so I am abandoning `vue-context`. If your project depends on vue-context, please feel free to fork and maintain
-the package yourself, or use an [alternative context menu package](#alternatives).
+Only works with `sass-loader ^10.2.1`
 
 # vue-context
 
